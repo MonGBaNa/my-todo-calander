@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-todo-calander/static/css/main.22f888a1.chunk.css",
-    "main.js": "/my-todo-calander/static/js/main.af7bf28d.chunk.js",
-    "main.js.map": "/my-todo-calander/static/js/main.af7bf28d.chunk.js.map",
+    "main.css": "/my-todo-calander/static/css/main.be503497.chunk.css",
+    "main.js": "/my-todo-calander/static/js/main.a13dbdd7.chunk.js",
+    "main.js.map": "/my-todo-calander/static/js/main.a13dbdd7.chunk.js.map",
     "runtime-main.js": "/my-todo-calander/static/js/runtime-main.7f416b07.js",
     "runtime-main.js.map": "/my-todo-calander/static/js/runtime-main.7f416b07.js.map",
-    "static/js/2.6b4bd205.chunk.js": "/my-todo-calander/static/js/2.6b4bd205.chunk.js",
-    "static/js/2.6b4bd205.chunk.js.map": "/my-todo-calander/static/js/2.6b4bd205.chunk.js.map",
+    "static/js/2.812f6878.chunk.js": "/my-todo-calander/static/js/2.812f6878.chunk.js",
+    "static/js/2.812f6878.chunk.js.map": "/my-todo-calander/static/js/2.812f6878.chunk.js.map",
     "index.html": "/my-todo-calander/index.html",
-    "precache-manifest.5db28b47815cce2e83e22dbfe49cba31.js": "/my-todo-calander/precache-manifest.5db28b47815cce2e83e22dbfe49cba31.js",
+    "precache-manifest.8835d4a7cb92d6be6869bb3bdd11d0d8.js": "/my-todo-calander/precache-manifest.8835d4a7cb92d6be6869bb3bdd11d0d8.js",
     "service-worker.js": "/my-todo-calander/service-worker.js",
-    "static/css/main.22f888a1.chunk.css.map": "/my-todo-calander/static/css/main.22f888a1.chunk.css.map",
-    "static/js/2.6b4bd205.chunk.js.LICENSE.txt": "/my-todo-calander/static/js/2.6b4bd205.chunk.js.LICENSE.txt"
+    "static/css/main.be503497.chunk.css.map": "/my-todo-calander/static/css/main.be503497.chunk.css.map",
+    "static/js/2.812f6878.chunk.js.LICENSE.txt": "/my-todo-calander/static/js/2.812f6878.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f416b07.js",
-    "static/js/2.6b4bd205.chunk.js",
-    "static/css/main.22f888a1.chunk.css",
-    "static/js/main.af7bf28d.chunk.js"
+    "static/js/2.812f6878.chunk.js",
+    "static/css/main.be503497.chunk.css",
+    "static/js/main.a13dbdd7.chunk.js"
   ]
 }
